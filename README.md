@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am student in IT techologies (almost finished😅)</br>
-Working at Inovelan : a company localised at Saint André-lez-Lille, at top north of France🇫🇷 near Lille</br>
+--I am student in IT techologies (almost finished😅)--</br>
+Working at --Inovelan-- Dedalus since June 2020 : a company localised at Saint André-lez-Lille, at top north of France🇫🇷 near Lille</br>
 
 <!--
 **BBR2394/BBR2394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
